@@ -1,15 +1,16 @@
 {
-  "name": "PoulaZ",
+  "name": "spam",
   "version": "2.1.0",
-  "description": "-- Script Spam , Farm Credit ProBot --",
-  "main": "bot.js",
+  "description": "Kero",
+  "main": "server.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "discord.js": "^11.3.2",
     "fs": "^0.0.2",
     "node-opus": "^0.2.7",
+    "node-cmd": "^3.0.0",
     "opusscript": "0.0.6",
   "request": "^2.85.0"
   },
